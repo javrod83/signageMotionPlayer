@@ -167,23 +167,23 @@ void testApp::keyReleased(int key){}
 //--------------------------------------------------------------
 void testApp::mouseMoved(int x, int y ){
 	
-	mySection.mouseMoved(x,y);
+	//mySection.mouseMoved(x,y);
 }
 
 //--------------------------------------------------------------
 void testApp::mouseDragged(int x, int y, int button){
-	mySection.mouseDragged(x,y,button);
+//	mySection.mouseDragged(x,y,button);
 }
 
 //--------------------------------------------------------------
 void testApp::mousePressed(int x, int y, int button){
-	mySection.mousePressed(x,y,button);
+//	mySection.mousePressed(x,y,button);
 }
 
 //--------------------------------------------------------------
 void testApp::mouseReleased(int x, int y, int button){
 
- 	mySection.mouseReleased(x,y,button);
+ //	mySection.mouseReleased(x,y,button);
 }
 
 //--------------------------------------------------------------
